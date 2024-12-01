@@ -1,0 +1,39 @@
+category,fraction,average_dot_product,variance,second_best_category
+Wild Plains Zebra,0.02975,0.32559705,0.00010588991,Image of Zebra
+Image of Zebra,0.11575,0.32960573,9.044046e-05,Picture of Zebra
+Picture of Zebra,0.07975,0.33123252,9.06439e-05,Image of Zebra
+Wild Zebra,0.00925,0.3238841,0.00012262448,Image of Zebra
+African Zebra,0.00875,0.3303089,0.00011959076,Picture of Zebra
+Zebra Herd,0.0025,0.33265746,6.936789e-05,Image of Zebra
+Zebra in the Wild,0.00325,0.3252308,4.1383963e-05,Wild Zebra
+Picture of Rhino,0.14175,0.31974447,0.00015624784,Image of Rhino
+Large Zebra,0.0005,0.3109358,4.541129e-05,Wild Zebra
+Moving Zebra,0.0005,0.3162765,6.698072e-06,Wild Zebra
+African Rhino,0.03425,0.3134827,0.00013589511,Image of Rhino
+Image of Rhino,0.0645,0.31416127,0.00014224534,Picture of Rhino
+African Buffalo,0.2135,0.32618788,0.000333317,Buffalo in the Wild
+Black Rhino,0.00175,0.30243632,0.00025908437,African Rhino
+Moving Rhino,0.00325,0.3135037,0.00021558542,Image of Rhino
+Elephant in Herds,0.00075,0.29814765,1.2109677e-05,Picture of Elephant
+Asian Elephant,0.04325,0.30658638,8.7881366e-05,Picture of Elephant
+Rhinoceros,0.00225,0.3167789,0.00014527638,Image of Rhino
+Rhino in the Wild,0.003,0.29915145,9.5138945e-05,Image of Rhino
+Large Buffalo,0.009,0.3003391,0.00040800043,African Buffalo
+Wild Elephant,0.01075,0.31131056,4.9313832e-05,African Elephant
+Wild Rhino,0.00075,0.28976306,3.238519e-05,Image of Rhino
+Image of Elephant,0.0415,0.31023148,9.118505e-05,Picture of Elephant
+Picture of Elephant,0.0555,0.31137112,9.732633e-05,Image of Elephant
+African Elephant,0.0905,0.3146979,9.4577095e-05,Picture of Elephant
+Rhino Herd,0.00025,0.322464,0.0,Rhino in Herds
+Elephant in the Wild,0.0065,0.3080676,0.00010175888,Wild Elephant
+Large Elephant,0.00175,0.30776843,0.00014821121,Image of Elephant
+Moving Elephant,0.00225,0.30847883,8.161863e-05,Picture of Elephant
+Elephant,0.0005,0.29004607,0.00018887967,Asian Elephant
+American Buffalo,0.00475,0.2850264,0.00041376916,Large Buffalo
+Buffalo in the Wild,0.01,0.3133717,0.00033735036,African Buffalo
+Image of Buffalo,0.0015,0.29104847,0.00021785498,Large Buffalo
+Picture of Buffalo,0.004,0.29969236,0.0003265366,Image of Buffalo
+Buffalo Plains,0.00075,0.31093022,0.0002488792,Buffalo in the Wild
+Buffalo Herd,0.00075,0.30747437,1.134475e-05,Buffaloes
+Elephant Herd,0.00025,0.28923595,0.0,Buffalo Herd
+Buffaloes,0.0005,0.31317964,6.183982e-07,African Buffalo

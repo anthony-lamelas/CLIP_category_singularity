@@ -1,0 +1,60 @@
+category,fraction,average_dot_product,variance,second_best_category
+Appetizing Taco,0.0243,0.28499645,0.00021041273,Image of Taco
+Tacos,0.01475,0.2879367,0.00015998453,Image of Taco
+Image of Taco,0.0533,0.28552574,0.00023577406,Picture of Taco
+Picture of Taco,0.0065,0.28981015,0.00039135126,Image of Taco
+Taquitos,0.0496,0.2994378,0.00032677958,Appetizing Taquito
+Appetizing Sandwich,0.00115,0.27949262,0.00024126924,Picture of Sandwich
+Image of Sandwich,0.01525,0.28848508,0.00038811105,Picture of Sandwich
+Cool Burger,0.01965,0.28070483,0.00014571562,Appetizing Burger
+Cool Taco,0.003,0.2761073,0.0002098004,Image of Taco
+Image of Fries,0.05135,0.30226573,0.00036130793,Picture of Fries
+Picture of Sandwich,0.0712,0.29849812,0.0002524826,Image of Sandwich
+Cool Crispy Chicken,0.02125,0.28582224,0.0003240877,Image of Crispy Chicken
+Sandwiches,0.0066,0.2842289,0.00044389928,Picture of Sandwich
+Picture of Burger,0.0378,0.29646075,0.00017091459,Image of Burger
+Image of Burger,0.01215,0.28938237,0.00021282243,Picture of Burger
+Burgers,0.006,0.28140262,0.00016480287,Cool Burger
+Appetizing Hot Dog,0.04545,0.29731712,0.0002354369,Image of Hot Dog
+Cool Baked Potato,0.0161,0.30812407,0.00054412155,Image of Baked Potato
+Cool Pizza,0.0018,0.27735168,0.00020503336,Image of Pizza
+Image of Pizza,0.0372,0.2908943,0.00020170212,Picture of Pizza
+Cool Sandwich,0.01225,0.2843616,0.00022698227,Picture of Sandwich
+Image of Baked Potato,0.0208,0.30715787,0.00060584914,Cool Baked Potato
+Picture of Crispy Chicken,0.0397,0.3049769,0.00028428622,Image of Crispy Chicken
+Baked Potatoes,0.05965,0.30426586,0.00047269632,Cool Baked Potato
+Appetizing Pizza,0.00415,0.27962258,0.00024578944,Image of Pizza
+Appetizing Crispy Chicken,0.0196,0.2781246,0.000363238,Cool Crispy Chicken
+Appetizing Burger,0.02,0.28405896,0.00014004708,Cool Burger
+Picture of Pizza,0.0599,0.2987601,0.00010150661,Image of Pizza
+Appetizing Taquito,0.0227,0.2923798,0.00016117516,Taquitos
+Image of Taquito,0.00515,0.28095394,0.00031044413,Appetizing Taquito
+Sandwich,0.00075,0.27950487,0.0007481257,Image of Sandwich
+Burger,0.0004,0.273008,0.00013700128,Burgers
+Picture of Fries,0.0181,0.31588817,0.00019250522,Image of Fries
+Image of Crispy Chicken,0.0319,0.297999,0.0003433945,Picture of Crispy Chicken
+Taco,0.0002,0.29340222,7.1920455e-05,Tacos
+Image of Donut,0.0455,0.30225047,0.00030779996,Picture of Donut
+Picture of Taquito,0.0021,0.30244645,0.0002132484,Image of Taquito
+Cool Fries,0.0022,0.29162663,0.00053115323,Image of Fries
+Cool Donut,0.00595,0.28908828,0.00047460123,Image of Donut
+Donuts,0.02605,0.2900138,0.0002716782,Image of Donut
+Hot Dogs,0.0077,0.29003605,0.00040285927,Image of Hot Dog
+Appetizing Baked Potato,0.00345,0.29694635,0.0005468009,Cool Baked Potato
+Appetizing Fries,0.01225,0.2964512,0.00025036093,Image of Fries
+Image of Hot Dog,0.02095,0.30028912,0.00025719617,Picture of Hot Dog
+Donut,0.00095,0.2818809,0.00035895171,Image of Donut
+Picture of Hot Dog,0.01975,0.30906972,0.0002252796,Image of Hot Dog
+Cool Hot Dog,0.00115,0.28812745,0.00047249897,Image of Hot Dog
+Pizzas,0.00035,0.2766564,0.0005423852,Cool Pizza
+French Fries,0.01475,0.30706552,0.00041483218,Image of Fries
+Hot Dog,5e-05,0.3216204,0.0,Image of Hot Dog
+Crispy Chickens,0.00235,0.29075196,0.00016705533,Cool Crispy Chicken
+Appetizing Donut,0.0017,0.2728242,0.00029677502,Image of Donut
+Crispy Chicken,0.0011,0.2927234,0.00023089214,Cool Crispy Chicken
+Fries,0.00205,0.29235873,0.0004306014,Image of Fries
+Pizza,0.0001,0.26605275,4.220009e-05,Image of Pizza
+Picture of Baked Potato,0.00115,0.32706073,0.00054964813,Image of Baked Potato
+Cool Taquito,5e-05,0.2896396,0.0,Appetizing Taquito
+Picture of Donut,0.0186,0.30577525,0.00020559372,Image of Donut
+Baked Potato,0.0001,0.35471106,2.9057264e-06,Image of Baked Potato

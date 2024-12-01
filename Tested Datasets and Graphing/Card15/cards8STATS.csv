@@ -1,0 +1,9 @@
+category,fraction,average_dot_product,variance,second_best_category
+Image of Card of Hearts,0.2623252391464312,0.32198343,0.0005029337,Card of Hearts
+Image of Card of Spades,0.44775570272259013,0.31532496,0.00038373074,Card of Spades
+Image of Card of Clubs,0.18224184449350012,0.30496088,0.000530361,Image of Card of Spades
+Image of Card of Diamonds,0.061564876134412555,0.2943381,0.0005538454,Card of Diamonds
+Card of Hearts,0.003924454255580083,0.30335692,0.00056319684,Image of Card of Hearts
+Card of Spades,0.018763796909492272,0.294869,0.0005866094,Image of Card of Spades
+Card of Clubs,0.018150600932057885,0.2924701,0.00035938702,Image of Card of Clubs
+Card of Diamonds,0.005273485405935737,0.28675455,0.00031181268,Image of Card of Diamonds
