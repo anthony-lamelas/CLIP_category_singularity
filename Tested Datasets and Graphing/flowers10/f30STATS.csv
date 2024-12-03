@@ -1,0 +1,23 @@
+category,fraction,average_dot_product,variance,second_best_category
+Image of gardenias,0.1009549795361528,0.3228843,0.00036726127,Picture of gardenias
+Image of lilies,0.09822646657571624,0.30934876,5.698204e-05,Picture of lilies
+Image of hydrangeas,0.08185538881309687,0.3369778,0.00011870861,Picture of hydrangeas
+Image of tulip,0.09822646657571624,0.30590332,0.00015911128,Picture of tulip
+Image of daisies,0.11186903137789904,0.31700128,0.0001394109,Picture of daisies
+Picture of bougainvillea,0.036834924965893585,0.33020064,0.00018465078,Image of bougainvillea
+Image of orchids,0.08731241473396999,0.31567553,9.088218e-05,Picture of orchids
+Image of hibiscus,0.08458390177353342,0.31850222,0.00012722323,Picture of hibiscus
+lilies,0.004092769440654843,0.3138068,1.1752049e-05,Image of lilies
+Image of garden_roses,0.09140518417462483,0.30361402,0.00016273669,Picture of garden_roses
+Image of peonies,0.10368349249658936,0.3206683,0.000110030174,Picture of peonies
+Picture of garden_roses,0.008185538881309686,0.31012878,0.00017508864,Image of garden_roses
+bougainvillea,0.009549795361527967,0.31441692,0.00015267303,Picture of bougainvillea
+Image of bougainvillea,0.05184174624829468,0.322359,0.00019592361,Picture of bougainvillea
+Picture of gardenias,0.005457025920873124,0.32032,4.120171e-05,Image of gardenias
+Picture of daisies,0.001364256480218281,0.3052454,0.0,Image of daisies
+Picture of lilies,0.0068212824010914054,0.30441016,0.00015633107,Image of lilies
+Picture of hibiscus,0.008185538881309686,0.31566295,2.6345253e-05,Image of hibiscus
+hydrangeas,0.001364256480218281,0.31759086,0.0,Image of hydrangeas
+hibiscus,0.004092769440654843,0.3064907,8.549293e-05,Image of hibiscus
+gardenias,0.001364256480218281,0.3253932,0.0,Image of gardenias
+Picture of peonies,0.002728512960436562,0.31779882,3.6016107e-05,Image of peonies
