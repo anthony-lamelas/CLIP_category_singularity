@@ -1,4 +1,4 @@
-![graph of all datasets](./Tested\ Datasets\ and\ Graphing/Graph\ of\ All.png)
+![graph of all datasets](Tested Datasets and Graphing/Graph of All.png)
 
 # CLIP_category_singularity
 
