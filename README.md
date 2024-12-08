@@ -1,4 +1,5 @@
-![graph of all datasets](Tested Datasets and Graphing/Graph of All.png)
+![image](https://github.com/user-attachments/assets/10969427-cf47-4bc0-9b06-32f68c71afe3)
+
 
 # CLIP_category_singularity
 
