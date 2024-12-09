@@ -1,0 +1,9 @@
+category,fraction,average_dot_product,variance,second_best_category
+Zebra,0.24875,0.3161256,0.00013173165,Zebras
+Zebras,0.0015,0.3186382,3.0775864e-05,Zebra
+Rhinoceros,0.1825,0.30090946,0.00015389429,Rhino
+Rhino,0.085,0.3006473,0.00012949214,Rhinoceros
+Elephants,0.00725,0.2887641,0.00018788206,Elephant
+Elephant,0.251,0.30019775,9.1324764e-05,Elephants
+Buffaloes,0.0575,0.28657588,0.00021854899,Buffalo
+Buffalo,0.1665,0.29334593,0.00018796262,Buffaloes

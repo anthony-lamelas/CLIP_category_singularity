@@ -1,0 +1,5 @@
+category,fraction,average_dot_product,variance,second_best_category
+picture of dog,0.7238836265223275,0.24486798,0.00020417312,dog
+picture of cat,0.2141407307171854,0.25581327,0.00019306105,cat
+dog,0.02956698240866035,0.25335515,8.783406e-05,picture of dog
+cat,0.032408660351826796,0.25839806,7.2096984e-05,picture of cat

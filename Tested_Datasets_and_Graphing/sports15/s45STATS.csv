@@ -1,0 +1,45 @@
+category,fraction,average_dot_product,variance,second_best_category
+Image of billiard_ball,0.058457847093467116,0.30071735,0.00068107294,Picture of billiard_ball
+Picture of billiard_ball,0.014178209183117024,0.31498677,0.00061575085,Image of billiard_ball
+Image of bowling_ball,0.06958228814483586,0.29323512,0.00072179694,Picture of bowling_ball
+Picture of bowling_ball,0.04438870105791253,0.31188723,0.0007073967,Image of bowling_ball
+table_tennis_ball,0.01450539862580434,0.2964704,0.0011637838,Image of table_tennis_ball
+Picture of basketball,0.01614134583924092,0.29775628,0.00027159098,Image of basketball
+Image of table_tennis_ball,0.026175155414985277,0.28900656,0.00071982545,Picture of table_tennis_ball
+billiard_ball,0.002181262951248773,0.28911608,0.00076341035,Image of billiard_ball
+bowling_ball,0.017231977314865306,0.28416622,0.00052355515,Image of bowling_ball
+Image of basketball,0.028683607808921364,0.2937183,0.00028885817,Picture of basketball
+Picture of golf_ball,0.0259570291198604,0.3005395,0.0005527785,Image of golf_ball
+cricket_ball,0.013414767150179955,0.30133414,0.000532724,Picture of cricket_ball
+Image of golf_ball,0.09346711746100993,0.29612997,0.00064669136,Picture of golf_ball
+Picture of hockey_puck,0.01875886138073945,0.3042988,0.0008665018,Image of hockey_puck
+golf_ball,0.007416294034245829,0.27952287,0.00057723944,Image of golf_ball
+Image of hockey_puck,0.030210491874795506,0.29642892,0.0010170782,Picture of hockey_puck
+Picture of football,0.0519140582397208,0.28948623,0.00017170145,Image of football
+Image of tennis_ball,0.05834878394590468,0.3044572,0.0008765889,Picture of tennis_ball
+Picture of tennis_ball,0.02104918747955066,0.2948826,0.0011854814,Image of tennis_ball
+tennis_ball,0.013414767150179955,0.29651845,0.0009737635,Image of tennis_ball
+hockey_puck,0.004362525902497546,0.27628365,0.0010472357,Image of hockey_puck
+Picture of volleyball,0.018104482495364817,0.31080666,0.0002130945,Image of volleyball
+Picture of american_football,0.0014178209183117025,0.27787387,0.00096888724,Image of american_football
+Image of cricket_ball,0.035118333515105245,0.31438592,0.0004488785,Picture of cricket_ball
+Image of baseball,0.03250081797360672,0.28763703,0.00030645588,Picture of baseball
+Picture of baseball,0.018867924528301886,0.29274696,0.00022252034,Image of baseball
+Picture of cricket_ball,0.022903260988112118,0.31601584,0.0004478273,Image of cricket_ball
+Picture of table_tennis_ball,0.005998473115934126,0.29609,0.0008595987,Image of table_tennis_ball
+Image of hockey_ball,0.022794197840549677,0.29317063,0.0004192243,hockey_ball
+Image of american_football,0.003926273312247791,0.2696806,0.00055731006,Picture of american_football
+hockey_ball,0.008834114952557532,0.29101175,0.000760879,Image of hockey_ball
+Picture of rugby_ball,0.03533645981023013,0.30933192,0.0004888817,Image of rugby_ball
+Image of shuttlecock,0.005125967935434616,0.25328192,0.00023127616,Picture of shuttlecock
+Image of volleyball,0.0408986803359145,0.3039794,0.00028807577,Picture of volleyball
+Picture of hockey_ball,0.0035990838695604756,0.2929436,0.0005605799,Image of hockey_ball
+Image of rugby_ball,0.030319555022357947,0.3046495,0.00063355535,Picture of rugby_ball
+Image of football,0.06085723633984077,0.2798882,0.00018003593,Picture of football
+american_football,0.0005453157378121933,0.29243326,0.0024618686,Image of american_football
+Picture of shuttlecock,0.006216599411059003,0.2599101,0.0003155198,Image of shuttlecock
+shuttlecock,0.008615988657432653,0.2553958,0.00054744526,Picture of shuttlecock
+rugby_ball,0.007743483476933145,0.29709655,0.00066368346,Picture of rugby_ball
+baseball,0.00010906314756243865,0.22868967,0.0,Picture of baseball
+volleyball,0.00010906314756243865,0.26121703,0.0,rugby_ball
+basketball,0.0002181262951248773,0.27579778,0.00022921711,Image of basketball

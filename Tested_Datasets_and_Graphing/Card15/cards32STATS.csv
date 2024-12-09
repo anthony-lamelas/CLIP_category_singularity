@@ -1,0 +1,33 @@
+category,fraction,average_dot_product,variance,second_best_category
+Poker Card of Hearts,0.24110865832720138,0.33480912,0.0003649148,Picture of Card of Hearts
+Picture of Card of Hearts,0.02526367427029679,0.31762955,0.0007220426,Image of Card of Hearts
+Image of Card of Hearts,0.03630120186411577,0.31177986,0.0007153524,Picture of Card of Hearts
+Royal Card of Hearts,0.014594064262938435,0.32249892,0.0006261473,Poker Card of Hearts
+Royal Card of Clubs,0.09946038753985774,0.3217311,0.00026683125,Image of Card of Clubs
+Royal Card of Spades,0.05665930831493746,0.32010084,0.0003727339,Image of Card of Spades
+Picture of Card of Spades,0.06745155751778269,0.31627047,0.00042534567,Image of Card of Spades
+Picture of Card of Diamonds,0.011528084375766495,0.29148924,0.00056593976,Image of Card of Diamonds
+Image of Card of Diamonds,0.027839097375521215,0.29367518,0.00053133524,Picture of Card of Diamonds
+Image of Card of Spades,0.16948736816286486,0.31828624,0.00048016605,Picture of Card of Spades
+Poker Card of Spades,0.0728476821192053,0.31683886,0.00023328736,Image of Card of Spades
+Image of Card of Clubs,0.048810399803777285,0.30328736,0.0006517094,Royal Card of Clubs
+Vintage Card of Spades,0.016801569781702233,0.31649277,0.00047662834,Image of Card of Spades
+Poker Card of Diamonds,0.03617856266862889,0.30585,0.00027421207,Poker Card of Spades
+Classic Card of Hearts,0.001839587932303164,0.2908227,0.00046930314,Deluxe Card of Hearts
+Picture of Card of Clubs,0.007480990924699534,0.2764114,0.00066442956,Image of Card of Clubs
+Deluxe Card of Spades,0.003188619082658818,0.29244903,0.00040447712,Image of Card of Spades
+Royal Card of Diamonds,0.007848908511160166,0.31406435,0.0005139038,Image of Card of Diamonds
+Card of Spades,0.0009811135638950208,0.28927356,0.00023016334,Image of Card of Spades
+Poker Card of Clubs,0.027348540593573705,0.30634233,0.0004412818,Poker Card of Spades
+Deluxe Card of Hearts,0.004292371842040716,0.2843055,0.00040040017,Picture of Card of Hearts
+Vintage Card of Hearts,0.00306597988717194,0.31728947,0.00026626588,Image of Card of Hearts
+Vintage Card of Diamonds,0.0029433406916850625,0.30184746,0.0007437269,Classic Card of Diamonds
+Card of Hearts,0.0001226391954868776,0.29971382,0.0,Image of Card of Hearts
+Classic Card of Diamonds,0.0033112582781456954,0.28655276,0.00028889268,Picture of Card of Diamonds
+Card of Clubs,0.0020848663232769194,0.29129615,0.00020834278,Image of Card of Clubs
+Vintage Card of Clubs,0.0013490311503556536,0.29183757,0.00072643976,Picture of Card of Clubs
+Classic Card of Clubs,0.0023301447142506744,0.29031438,0.00040148434,Picture of Card of Clubs
+Deluxe Card of Clubs,0.0007358351729212656,0.2598736,0.0003940612,Picture of Card of Clubs
+Classic Card of Spades,0.00564140299239637,0.28712636,0.00037780014,Picture of Card of Spades
+Deluxe Card of Diamonds,0.0008584743684081432,0.25775793,0.0002247904,Image of Card of Diamonds
+Card of Diamonds,0.0002452783909737552,0.29171926,5.466491e-05,Image of Card of Diamonds

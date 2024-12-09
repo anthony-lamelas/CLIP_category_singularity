@@ -1,0 +1,17 @@
+category,fraction,average_dot_product,variance,second_best_category
+Image of Zebra,0.14375,0.32817888,0.000101616904,Picture of Zebra
+Picture of Zebra,0.08675,0.33078843,0.00010251312,Image of Zebra
+Wild Zebra,0.01975,0.32146662,0.00014198883,Image of Zebra
+Picture of Rhino,0.16675,0.3178866,0.00019747207,Image of Rhino
+Image of Rhino,0.097,0.31140193,0.0001645629,Picture of Rhino
+Picture of Elephant,0.14125,0.30897835,0.00010957971,Image of Elephant
+Wild Rhino,0.00525,0.29922846,0.00020148073,Image of Rhino
+Image of Elephant,0.06825,0.30832034,9.631063e-05,Picture of Elephant
+Elephants,0.00075,0.28987834,3.831585e-05,Wild Elephant
+Rhinoceros,0.00275,0.31574944,0.00012544068,Image of Rhino
+Wild Elephant,0.03775,0.3092657,0.00011251462,Picture of Elephant
+Elephant,0.007,0.29436424,8.975608e-05,Picture of Elephant
+Image of Buffalo,0.0775,0.3021852,0.00026571212,Wild Buffalo
+Picture of Buffalo,0.038,0.29896498,0.00021655936,Image of Buffalo
+Wild Buffalo,0.099,0.30372992,0.00011648313,Image of Buffalo
+Buffaloes,0.0085,0.2907597,0.00026113144,Image of Buffalo
