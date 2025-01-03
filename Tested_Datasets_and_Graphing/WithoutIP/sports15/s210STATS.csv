@@ -1,0 +1,188 @@
+category,fraction,average_dot_product,variance,second_best_category
+Large billiard_ball,0.013851019740429708,0.29381603,0.00037297676,Large billiard_balls
+Large billiard_balls,0.027047660595484784,0.3089208,0.00042566177,billiard_balls for Sports
+Sports billiard_ball,0.0047987784927473005,0.3175067,0.0003614534,billiard_ball for Sports
+billiard_ball for Sports,0.008506925509870214,0.3176222,0.00031046988,Sports billiard_ball
+billiard_balls for Sports,0.014941651216054095,0.3141098,0.0005885006,Sports billiard_balls
+Medium billiard_ball,0.0010906314756243866,0.30407634,0.0014989495,Medium billiard_balls
+Small billiard_balls,0.0019631366561238955,0.30765304,0.0011363891,Small billiard_ball
+Round billiard_ball,0.004471589050059985,0.30674192,0.00053823285,Small billiard_ball
+Sports table_tennis_balls,0.003053768131748282,0.30169383,0.00022571428,table_tennis_balls for Sports
+table_tennis_balls for Sports,0.013414767150179955,0.3174055,0.001018121,table_tennis_balls
+Round bowling_ball,0.0073072308866833895,0.28956723,0.0007019755,bowling_ball
+tennis_balls,0.0007634420329370705,0.26819268,0.0015067032,tennis_balls for Sports
+Small billiard_ball,0.0032718944268731597,0.31037733,0.00057646434,billiard_ball for Sports
+Medium billiard_balls,0.003490020721998037,0.30039605,0.0004888773,Medium billiard_ball
+bowling_ball for Sports,0.024430145053986257,0.30909625,0.00040388107,bowling_ball
+Small bowling_balls,0.001308757770749264,0.28428128,0.001335909,Small bowling_ball
+cricket_balls for Sports,0.0037081470171229144,0.3063962,0.0005495829,Sports cricket_balls
+Large bowling_ball,0.011451630494056059,0.3104502,0.0005054292,bowling_ball for Sports
+tennis_ball for Sports,0.027702039480859416,0.31653666,0.0005659944,tennis_ball
+bowling_balls for Sports,0.014396335478241902,0.3113668,0.00040440125,bowling_ball for Sports
+Large table_tennis_ball,0.0008725051804995092,0.30779147,0.00092386454,Large table_tennis_balls
+bowling_ball,0.009597556985494601,0.31205413,0.0007044185,bowling_ball for Sports
+cricket_balls,0.0007634420329370705,0.2985207,0.00043541193,cricket_balls for Sports
+golf_balls,0.0009815683280619478,0.30439705,0.00026439957,golf_balls for Sports
+hockey_pucks for Sports,0.008725051804995092,0.29966632,0.0008376956,Large hockey_pucks
+golf_balls for Sports,0.046788090304286184,0.30526915,0.0006291316,Sports golf_balls
+hockey_ball for Sports,0.011996946231868252,0.29594788,0.00048236846,Round hockey_ball
+Sports billiard_balls,0.0011996946231868251,0.30068836,0.00041611085,billiard_balls for Sports
+golf_ball for Sports,0.051150616206783725,0.3098379,0.0003748977,golf_balls for Sports
+Round golf_ball,0.006216599411059003,0.29539,0.00043777833,golf_ball for Sports
+Sports golf_ball,0.005998473115934126,0.28279832,0.00043436396,golf_ball for Sports
+Medium golf_ball,0.005016904787872178,0.2954449,0.00069428526,golf_ball for Sports
+Large golf_ball,0.006216599411059003,0.3020712,0.00058235205,golf_ball for Sports
+Medium golf_balls,0.003053768131748282,0.29356384,0.0006209016,golf_balls for Sports
+golf_ball,0.0004362525902497546,0.29979667,0.00012475252,golf_balls
+Sports golf_balls,0.0020721998036863343,0.2862093,0.00061195774,golf_balls for Sports
+Small golf_ball,0.004144399607372669,0.29419237,0.0004503664,golf_ball for Sports
+american_footballs for Sports,0.039044606827353036,0.29968956,0.00028740228,footballs for Sports
+Large golf_balls,0.0010906314756243866,0.29711813,0.0005211413,golf_balls for Sports
+volleyballs for Sports,0.031301123350419895,0.30533805,0.00025511286,Sports volleyballs
+Round tennis_ball,0.004471589050059985,0.30537006,0.0007235074,tennis_ball for Sports
+tennis_balls for Sports,0.03304613371141891,0.30546737,0.0008842229,Sports tennis_balls
+Large tennis_ball,0.010251935870869233,0.31572893,0.00088732294,tennis_ball for Sports
+Small tennis_ball,0.0018540735085614572,0.3002393,0.00066177984,Round tennis_ball
+Medium tennis_balls,0.0019631366561238955,0.28726086,0.0006685257,tennis_balls for Sports
+Sports tennis_balls,0.0038172101646853527,0.30533275,0.0006307329,tennis_balls for Sports
+tennis_ball,0.0016359472134365798,0.32232878,0.000810202,tennis_ball for Sports
+Medium tennis_ball,0.0020721998036863343,0.29362223,0.0006859428,Medium tennis_balls
+Large tennis_balls,0.0019631366561238955,0.30195904,0.00059047673,tennis_balls for Sports
+Round table_tennis_ball,0.008288799214745337,0.27860704,0.00036621722,table_tennis_ball
+Large bowling_balls,0.001526884065874141,0.31696883,0.00042944294,bowling_balls
+Small bowling_ball,0.005235031082997056,0.30411872,0.00092254084,bowling_ball for Sports
+Sports bowling_balls,0.0002181262951248773,0.29852688,0.00048270077,bowling_balls for Sports
+Medium bowling_ball,0.005344094230559494,0.31073645,0.00033053572,bowling_ball for Sports
+basketball for Sports,0.009161304395244848,0.29309496,0.00015174775,basketballs for Sports
+Large rugby_balls,0.0009815683280619478,0.29958203,0.0007290509,rugby_balls for Sports
+Small american_footballs,0.00010906314756243865,0.25157562,0.0,Round american_football
+bowling_balls,0.0029447049841858437,0.30557752,0.0009564294,bowling_ball
+Large footballs,0.002508452393936089,0.28749242,0.00046951356,footballs for Sports
+table_tennis_ball for Sports,0.0029447049841858437,0.308471,0.0004765281,Sports table_tennis_ball
+Sports bowling_ball,0.002181262951248773,0.30802852,0.00029459596,bowling_ball for Sports
+Medium volleyballs,0.016795724724615553,0.30632877,0.0002415335,volleyballs for Sports
+Round hockey_puck,0.004253462754935107,0.29963583,0.0010362038,hockey_puck for Sports
+footballs for Sports,0.030210491874795506,0.29093587,0.00015304235,american_footballs for Sports
+Round cricket_ball,0.007961609772058021,0.3134585,0.00042641652,cricket_ball for Sports
+Sports baseballs,0.01374195659286727,0.30232996,0.00018280272,baseballs for Sports
+baseballs for Sports,0.026393281710110152,0.3007136,0.00016855603,Sports baseballs
+Sports baseball,0.005344094230559494,0.28366566,0.00041570468,baseball for Sports
+Small baseball,0.0007634420329370705,0.28704333,5.2120005e-05,Sports baseball
+Small baseballs,0.000327189442687316,0.28315413,3.341834e-05,baseballs for Sports
+Large baseball,0.0010906314756243866,0.27930993,0.0003819406,Medium baseball
+baseball for Sports,0.0010906314756243866,0.25292164,0.0002509475,Sports baseball
+cricket_ball for Sports,0.03882648053222816,0.3202465,0.00031933087,Round cricket_ball
+Large baseballs,0.0010906314756243866,0.30402303,0.00010859966,Sports baseballs
+Sports table_tennis_ball,0.008725051804995092,0.3096711,0.00055170653,table_tennis_ball for Sports
+Large volleyballs,0.0058894099683716875,0.30642322,0.0003399054,volleyballs for Sports
+Large hockey_ball,0.000654378885374632,0.27311888,0.00050677854,Large hockey_puck
+Sports hockey_pucks,0.002617515541498528,0.2860016,0.00086678565,hockey_pucks for Sports
+Large table_tennis_balls,0.003380957574435598,0.2927609,0.0005970155,table_tennis_balls for Sports
+table_tennis_ball,0.000654378885374632,0.29124662,0.0012776057,table_tennis_ball for Sports
+Small table_tennis_ball,0.0005453157378121933,0.30807516,0.0021422803,table_tennis_ball
+Large hockey_pucks,0.00567128367324681,0.29885575,0.0015277679,hockey_pucks for Sports
+table_tennis_balls,0.0009815683280619478,0.2815591,0.00057435036,table_tennis_balls for Sports
+Medium table_tennis_balls,0.002181262951248773,0.2938459,0.0013247312,table_tennis_balls for Sports
+hockey_puck for Sports,0.022357945250299924,0.31268442,0.0007066494,Round hockey_puck
+hockey_balls for Sports,0.006870978296433635,0.30982706,0.0008094424,hockey_balls
+rugby_ball for Sports,0.033482386301668665,0.31996337,0.0004887845,Large rugby_ball
+Medium hockey_ball,0.0007634420329370705,0.27862382,0.0014231801,hockey_ball for Sports
+Small shuttlecock,0.001308757770749264,0.24963707,0.00010974208,Medium shuttlecock
+Sports cricket_balls,0.0017450103609990184,0.30366635,0.0005960986,cricket_balls for Sports
+Sports volleyballs,0.00567128367324681,0.3024124,0.00039128156,volleyballs for Sports
+volleyball for Sports,0.004362525902497546,0.29102302,0.0003725648,volleyballs for Sports
+Medium rugby_ball,0.003162831279310721,0.30691382,0.00052517856,rugby_ball for Sports
+volleyballs,0.000327189442687316,0.29228476,9.357929e-05,volleyballs for Sports
+Sports volleyball,0.002617515541498528,0.29008594,0.0002731681,volleyball for Sports
+volleyball,0.000327189442687316,0.27638242,9.313723e-05,Sports volleyball
+Small volleyball,0.0004362525902497546,0.2999511,0.0004561618,volleyball for Sports
+Round hockey_ball,0.015268840658741411,0.29728943,0.00031290736,hockey_ball for Sports
+Sports shuttlecock,0.0019631366561238955,0.25971118,0.0002012584,shuttlecock for Sports
+Small hockey_ball,0.000654378885374632,0.305858,0.0006217261,Small hockey_balls
+hockey_ball,0.0010906314756243866,0.3041808,0.00016698241,hockey_ball for Sports
+Medium cricket_balls,0.0005453157378121933,0.30487603,0.0003480792,cricket_balls for Sports
+Small hockey_balls,0.0002181262951248773,0.30085164,6.452203e-06,hockey_balls for Sports
+Round shuttlecock,0.004144399607372669,0.26069972,0.00028912644,Medium shuttlecock
+Medium cricket_ball,0.0029447049841858437,0.30177486,0.0010908445,cricket_ball for Sports
+Large cricket_balls,0.000654378885374632,0.29873785,0.0013059775,cricket_balls
+Large cricket_ball,0.011560693641618497,0.32481867,0.00018191787,cricket_ball for Sports
+Sports cricket_ball,0.005344094230559494,0.29529613,0.0005772065,cricket_ball for Sports
+Small cricket_ball,0.0004362525902497546,0.28022105,0.00085392594,cricket_ball
+cricket_ball,0.0018540735085614572,0.29704478,0.0010101725,cricket_ball for Sports
+basketballs for Sports,0.023121387283236993,0.3021883,0.00021885926,Sports basketballs
+Sports footballs,0.02497546079179845,0.30729514,0.00020914203,footballs for Sports
+football for Sports,0.001526884065874141,0.27486736,0.00024653334,footballs for Sports
+Large rugby_ball,0.020067619151488712,0.31814608,0.00047128098,rugby_ball for Sports
+american_football for Sports,0.001526884065874141,0.2725266,0.00026347808,Sports american_football
+Sports american_footballs,0.0029447049841858437,0.28882447,0.00032042575,american_footballs for Sports
+rugby_balls for Sports,0.002290326098811212,0.3092986,0.0008742923,Sports rugby_balls
+Large football,0.003380957574435598,0.29077026,0.00041310248,Large footballs
+Sports american_football,0.0007634420329370705,0.26864356,0.0003446,american_football for Sports
+Round american_football,0.0005453157378121933,0.2418203,0.00036467315,american_football for Sports
+Medium shuttlecock,0.009161304395244848,0.26838017,0.00039298763,Round shuttlecock
+shuttlecock for Sports,0.005016904787872178,0.27944413,0.00037835474,Sports shuttlecock
+shuttlecocks for Sports,0.0004362525902497546,0.25130326,0.00029605627,shuttlecock for Sports
+Sports tennis_ball,0.0023993892463736502,0.29033202,0.0006525842,tennis_ball for Sports
+Medium baseballs,0.0002181262951248773,0.2638238,1.8626451e-07,Medium golf_balls
+Large shuttlecock,0.0011996946231868251,0.26091555,0.00019085949,Medium shuttlecock
+Large hockey_puck,0.005235031082997056,0.29874173,0.00091118616,hockey_puck for Sports
+Medium hockey_puck,0.0004362525902497546,0.30095357,0.0008222014,hockey_puck for Sports
+Sports hockey_ball,0.002508452393936089,0.28109995,0.00035582937,Sports hockey_pucks
+Medium hockey_pucks,0.0009815683280619478,0.26971683,0.0015411907,hockey_pucks for Sports
+Small hockey_puck,0.0019631366561238955,0.2939822,0.0005181034,hockey_puck for Sports
+Small hockey_pucks,0.0009815683280619478,0.2815229,0.001334303,Small hockey_puck
+Sports hockey_puck,0.0005453157378121933,0.28631067,0.00012395978,hockey_puck for Sports
+hockey_puck,0.000654378885374632,0.29473647,0.0008811752,Sports hockey_puck
+Round rugby_ball,0.004580652197622424,0.30624294,0.0006263767,rugby_ball for Sports
+american_football,0.00010906314756243865,0.22121258,0.0,Medium cricket_ball
+rugby_ball,0.0005453157378121933,0.29686213,0.00014999509,Round rugby_ball
+Sports rugby_balls,0.0011996946231868251,0.29427248,0.00038939714,rugby_balls for Sports
+basketballs,0.001526884065874141,0.29277295,0.00020159993,basketballs for Sports
+basketball,0.0011996946231868251,0.2717345,0.00022410262,basketball for Sports
+Medium basketballs,0.001308757770749264,0.2931035,0.00023670991,basketballs for Sports
+Sports basketballs,0.005235031082997056,0.3004109,0.0002009074,basketballs for Sports
+Large basketball,0.0019631366561238955,0.27940047,0.00042403408,basketballs for Sports
+Medium footballs,0.00981568328061948,0.29074806,0.00013122559,footballs for Sports
+Round football,0.0032718944268731597,0.27968296,0.00017418861,footballs for Sports
+billiard_balls,0.0008725051804995092,0.3337149,0.00030661374,Small billiard_balls
+Medium table_tennis_ball,0.0011996946231868251,0.284109,0.0021207712,Medium table_tennis_balls
+billiard_ball,0.0005453157378121933,0.30276173,0.0007834852,Small billiard_ball
+shuttlecock,0.001308757770749264,0.27337077,0.00095496076,Medium shuttlecock
+Small golf_balls,0.0007634420329370705,0.290757,0.00029257365,Small golf_ball
+shuttlecocks,0.0007634420329370705,0.2423222,0.00037777,shuttlecock
+Medium football,0.0002181262951248773,0.24745747,2.688542e-05,Small football
+Medium rugby_balls,0.000654378885374632,0.28242484,0.00045493743,rugby_balls for Sports
+Small tennis_balls,0.0002181262951248773,0.29768956,1.5348196e-05,Small tennis_ball
+Medium bowling_balls,0.00010906314756243865,0.33761454,0.0,bowling_balls
+Round baseball,0.0011996946231868251,0.29963234,7.713383e-05,baseballs for Sports
+baseball,0.000327189442687316,0.26776326,0.00020730992,Sports baseball
+Medium baseball,0.000327189442687316,0.27940193,2.8803945e-05,baseball for Sports
+baseballs,0.00010906314756243865,0.28599218,0.0,baseballs for Sports
+Small cricket_balls,0.00010906314756243865,0.24478377,0.0,Small cricket_ball
+Small table_tennis_balls,0.000327189442687316,0.2765485,5.8392685e-05,Small table_tennis_ball
+hockey_balls,0.00010906314756243865,0.3233177,0.0,Small hockey_balls
+Large hockey_balls,0.00010906314756243865,0.28872043,0.0,hockey_balls
+Medium volleyball,0.00010906314756243865,0.270182,0.0,Medium volleyballs
+Small volleyballs,0.000327189442687316,0.2896172,0.0006033182,Medium volleyballs
+Large volleyball,0.00010906314756243865,0.29658943,0.0,Large volleyballs
+Medium hockey_balls,0.00010906314756243865,0.3500721,0.0,Medium hockey_ball
+Small basketballs,0.000327189442687316,0.27648994,4.520019e-07,Large basketballs
+Medium american_football,0.000327189442687316,0.25282297,5.4309767e-05,american_football for Sports
+Sports rugby_ball,0.0008725051804995092,0.30244014,0.00016137958,rugby_ball for Sports
+Medium american_footballs,0.0002181262951248773,0.28595686,8.0138445e-05,Medium american_football
+Small shuttlecocks,0.0002181262951248773,0.24169087,5.234033e-06,Round shuttlecock
+Medium shuttlecocks,0.000327189442687316,0.25451776,8.066495e-06,Medium shuttlecock
+Large shuttlecocks,0.000327189442687316,0.25081936,5.779167e-05,Round shuttlecock
+hockey_pucks,0.00010906314756243865,0.2947833,0.0,Sports hockey_pucks
+Small football,0.0007634420329370705,0.26936975,0.00026845932,Round football
+Sports football,0.0004362525902497546,0.24734634,0.00021624565,Round football
+rugby_balls,0.000654378885374632,0.29154286,0.0009699762,rugby_balls for Sports
+Small rugby_ball,0.000654378885374632,0.31814,0.00023789208,rugby_ball for Sports
+Small rugby_balls,0.00010906314756243865,0.30225208,0.0,Medium rugby_balls
+american_footballs,0.0002181262951248773,0.26847473,1.1175871e-07,Medium american_footballs
+Sports basketball,0.000654378885374632,0.26421538,0.0003538827,basketball
+Large basketballs,0.0002181262951248773,0.2930591,1.7248094e-05,Large basketball
+Medium basketball,0.00010906314756243865,0.29310542,0.0,Medium basketballs
+Small basketball,0.00010906314756243865,0.3143958,0.0,Round basketball
+footballs,0.0002181262951248773,0.27678353,1.8462539e-05,footballs for Sports
+Large american_footballs,0.00010906314756243865,0.2843481,0.0,american_footballs for Sports
