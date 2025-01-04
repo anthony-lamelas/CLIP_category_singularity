@@ -1,0 +1,157 @@
+category,fraction,average_dot_product,variance,second_best_category
+food taco,0.01935,0.29266325,0.00014150851,taco food
+food tacos,0.041,0.29696435,0.0001170926,edible tacos
+edible taco,0.00625,0.2927158,0.00019560242,food taco
+medium taco,0.00035,0.2886822,0.0003216011,medium tacos
+giant taco,0.0027,0.29853642,0.00023544276,large taco
+taco food,0.0099,0.27754372,0.00024913056,food taco
+giant taquitos,0.0008,0.29566836,0.00033935905,large taquitos
+edible tacos,0.0111,0.29345712,0.00017232294,food tacos
+fries food,0.0161,0.29212993,0.00029334667,food fries
+food hot dogs,0.04045,0.31033164,0.00023805785,food hot dog
+small tacos,0.0041,0.29816452,0.00017272554,food tacos
+large taco,0.0021,0.29241064,0.0002591156,giant taco
+giant fries,0.00085,0.29249692,0.00027019836,large fries
+giant sandwich,0.0039,0.292139,0.00022430909,large sandwich
+large tacos,0.0008,0.29098985,0.00019045919,giant tacos
+food taquito,0.0082,0.29302728,0.00020164397,taquito food
+giant burger,0.00265,0.2923263,0.00017769831,large burger
+giant tacos,0.00065,0.28794003,0.00017915323,large tacos
+food taquitos,0.06275,0.31141385,0.00029601442,edible taquitos
+large burger,0.0148,0.29251194,5.655031e-05,giant burger
+food burgers,0.01065,0.2848134,0.000190708,food burger
+food baked potato,0.021,0.3138482,0.00047120595,edible baked potato
+giant pizza,0.0025,0.28982055,0.0001519394,giant pizzas
+large sandwiches,0.00345,0.29826888,0.0002423093,giant sandwiches
+tiny tacos,0.0004,0.3003798,0.0001167357,small tacos
+food fry,0.0024,0.2586298,0.00026296577,fries food
+crispy chicken food,0.04375,0.2950135,0.0002826102,food crispy chicken
+edible fries,0.01505,0.3025616,0.00027062805,food fries
+edible taquitos,0.0074,0.31065434,0.0005475444,food taquitos
+medium tacos,0.00065,0.28662825,0.00041744343,large tacos
+edible fry,0.0006,0.25163952,0.00030331314,food fry
+food pizza,0.05525,0.29364952,8.109943e-05,pizza food
+edible crispy chickens,0.01175,0.298007,0.00020129427,edible crispy chicken
+large crispy chicken,0.006,0.2924452,0.00018218359,giant crispy chicken
+large sandwich,0.01345,0.3002835,0.00014115799,giant sandwich
+food pizzas,0.00625,0.2924934,0.00014994049,food pizza
+sandwich food,0.0295,0.29218072,0.00017327777,food sandwich
+food sandwiches,0.00295,0.28807616,0.00026477393,sandwich food
+edible sandwiches,0.0141,0.293541,0.00029197315,sandwich food
+food burger,0.03455,0.28703722,6.538535e-05,burger food
+taco,0.0005,0.2938296,0.0007204831,food taco
+giant sandwiches,0.00235,0.28464893,0.0005989886,large sandwiches
+burger,0.00135,0.2811222,0.00017523766,burger food
+food fries,0.05175,0.3096361,0.0001851842,fries food
+food crispy chicken,0.00925,0.2919351,0.0003249658,crispy chicken food
+tiny taco,0.00015,0.28385872,0.0010636797,small taco
+small taco,0.0001,0.253415,0.0019954965,taco
+edible pizzas,0.00305,0.28234327,0.00020221023,edible pizza
+food baked potatoes,0.0598,0.31286168,0.0004465237,edible baked potatoes
+taquito food,0.0014,0.27739066,0.00041827135,food taquito
+food crispy chickens,0.00565,0.30197015,0.000119935095,crispy chicken food
+giant burgers,0.00065,0.27966177,0.000236823,large burgers
+food hot dog,0.03745,0.3069812,0.00018275915,food hot dogs
+giant pizzas,0.00235,0.28547248,0.00029955013,large pizzas
+edible donuts,0.00685,0.29528835,0.00025603024,food donuts
+large taquitos,0.00125,0.30853203,9.3240735e-05,food taquitos
+large taquito,0.0007,0.30812186,0.00022753647,giant taquito
+small fries,0.0019,0.29588234,0.00035411434,medium fries
+edible crispy chicken,0.01665,0.297613,0.00033854006,crispy chicken food
+food donuts,0.03025,0.29936403,0.00016080998,donut food
+edible hot dogs,0.01175,0.30205318,0.00033420807,food hot dogs
+baked potatoes,0.0015,0.31526425,0.000771904,food baked potatoes
+pizza food,0.02445,0.290318,0.00010304363,food pizza
+burger food,0.00895,0.2842793,9.940057e-05,food burger
+edible sandwich,0.00985,0.28349307,0.00014875382,sandwich food
+small pizza,5e-05,0.23041579,0.0,medium crispy chickens
+giant hot dogs,0.0008,0.29586786,0.0003863275,food hot dogs
+medium fry,0.001,0.28095922,0.00012871623,medium fries
+large crispy chickens,0.00115,0.2957082,0.00037704344,crispy chickens
+edible hot dog,0.00275,0.29845965,0.00038000452,food hot dog
+tiny fries,0.00165,0.30565572,0.00016909657,food fries
+edible baked potatoes,0.0044,0.30877993,0.0005362359,food baked potatoes
+food sandwich,0.01735,0.29080155,0.00012344998,sandwich food
+medium taquitos,0.0002,0.28964818,0.00079964846,taquitos
+edible donut,0.00725,0.29910526,0.00026359558,food donut
+pizza,0.0002,0.23557985,0.0015213192,pizza food
+large pizza,0.00525,0.29555517,6.239755e-05,pizza food
+giant hot dog,0.00085,0.30294895,0.000105970044,giant hot dogs
+medium hot dog,0.0001,0.33030745,1.4156103e-07,medium hot dogs
+large hot dogs,0.0015,0.31020585,0.0003954172,food hot dogs
+hot dog food,0.00235,0.30440477,0.000983289,food hot dogs
+large hot dog,0.0012,0.30658033,0.00038907924,food hot dog
+medium hot dogs,0.00035,0.2937252,0.00029238634,medium hot dog
+fry,0.0003,0.23474644,0.0014592806,edible fry
+tiny hot dog,0.00015,0.29477453,0.00024743876,small hot dog
+hot dog,0.0001,0.30770552,8.441508e-06,food hot dog
+tiny hot dogs,0.00035,0.30761597,0.00018485103,small hot dogs
+small baked potatoes,0.0004,0.28129598,0.00020416826,baked potatoes
+sandwich,0.00365,0.29547724,0.00024820355,sandwich food
+sandwiches,0.0009,0.30041772,0.00050793093,food sandwiches
+medium crispy chicken,0.0019,0.2961638,0.0002984687,medium crispy chickens
+food donut,0.0136,0.3011997,0.00013542175,donut food
+pizzas,0.00015,0.28940564,4.215042e-05,pizza food
+edible burger,0.00635,0.28597385,7.476206e-05,food burger
+medium burger,0.0019,0.2789558,0.00011489266,medium burgers
+small hot dogs,0.0002,0.3048917,0.00014727563,edible hot dogs
+tiny baked potatoes,0.0002,0.2920247,0.00016103685,food baked potatoes
+medium crispy chickens,0.00435,0.30142787,0.00021520154,medium crispy chicken
+crispy chicken,0.0031,0.30168897,0.00021563038,crispy chicken food
+small crispy chickens,0.0007,0.30062717,0.00012361152,food crispy chickens
+crispy chickens,0.00085,0.29912338,9.652446e-05,food crispy chickens
+giant crispy chicken,0.0025,0.29714698,0.00031523703,large crispy chicken
+giant crispy chickens,0.0013,0.29629645,0.00024300355,large crispy chickens
+small crispy chicken,0.0002,0.27725673,0.00064931065,crispy chicken food
+tiny crispy chicken,0.00015,0.28024623,0.00012115141,small crispy chicken
+baked potato food,0.0066,0.29870638,0.0010565483,food baked potato
+edible baked potato,0.00695,0.31165525,0.00052507664,food baked potato
+medium fries,0.00825,0.302763,0.00020321933,fries
+fries,0.00315,0.30614087,0.00012440908,food fries
+giant fry,0.00015,0.2727196,6.5912805e-05,giant fries
+large fries,0.00155,0.3048724,0.00027647326,food fries
+large burgers,0.0025,0.29303622,0.0001556015,food burgers
+small fry,0.0001,0.2843232,1.1079013e-05,small fries
+baked potato,5e-05,0.27300638,0.0,medium fry
+edible pizza,0.0023,0.2891239,0.00013459765,food pizza
+giant baked potato,0.00035,0.2959374,0.0015956248,food baked potato
+tiny pizza,5e-05,0.30416405,0.0,pizza food
+medium pizza,0.0002,0.28266543,8.235127e-05,medium pizzas
+tiny pizzas,0.0002,0.29532132,5.276501e-05,small pizzas
+large pizzas,0.0005,0.27875698,9.740591e-05,giant pizzas
+small pizzas,0.0001,0.26405293,0.0,food pizzas
+edible taquito,0.0006,0.2958592,0.00019961596,food taquito
+taquitos,0.0007,0.33091146,0.000971428,food taquitos
+donut food,0.00845,0.29273137,0.00028908183,food donut
+giant taquito,0.00025,0.30051446,5.905628e-05,large taquito
+medium sandwiches,0.0003,0.2860924,0.000981907,sandwiches
+medium taquito,5e-05,0.29797012,0.0,large taquito
+small taquitos,0.0001,0.2956553,1.3224781e-05,edible taquitos
+medium sandwich,0.00105,0.29737505,0.00032726355,sandwich
+edible burgers,0.0034,0.28963903,0.00013119333,food burgers
+tiny burger,0.0009,0.28846276,0.00013728274,small burger
+small burger,0.002,0.28646854,0.00013645887,burger food
+medium burgers,0.00065,0.27948654,0.00010735255,medium burger
+burgers,0.00025,0.26830038,5.7309866e-05,edible burgers
+small burgers,0.0002,0.28260642,0.00020371377,food burgers
+small sandwiches,0.00065,0.30326813,0.0002896052,food sandwiches
+tiny burgers,0.00015,0.29530096,4.5597553e-05,edible burgers
+medium donut,0.0002,0.29051182,0.0014560148,edible donut
+tiny sandwich,0.0006,0.30156758,0.00024232268,sandwich food
+tiny sandwiches,0.00065,0.29537678,0.00012979141,small sandwiches
+donut,0.00695,0.29787096,0.0002906717,food donut
+large donuts,0.0027,0.29007006,0.00022226793,giant donuts
+donuts,0.0068,0.29192734,0.00025120904,food donuts
+giant donuts,0.00365,0.28367442,0.0003192784,large donuts
+medium donuts,0.00245,0.28241238,0.00016580796,donuts
+large donut,0.0078,0.30420494,8.474252e-05,giant donut
+giant donut,0.0015,0.304999,0.00012406507,large donut
+medium baked potatoes,5e-05,0.24255262,0.0,edible baked potatoes
+tiny donut,0.0001,0.3192346,0.0002802238,donut
+tiny donuts,0.00025,0.29532477,0.00043194293,edible donuts
+small donuts,5e-05,0.25717416,0.0,tiny donuts
+giant baked potatoes,0.0009,0.3051035,0.00041901402,large baked potatoes
+large baked potatoes,0.0004,0.31739742,0.0003472343,giant baked potatoes
+large fry,0.0001,0.2761581,4.8056245e-06,large fries
+small sandwich,5e-05,0.28547162,0.0,edible hot dog
+medium pizzas,5e-05,0.2848021,0.0,food pizzas
