@@ -4119,16 +4119,16 @@ food10_counts = {10 : [aOcheck_accuracy("WithoutIP/food10/f10.csv", f10)],
 print("\n Vehicle 20 \n")
 
 v20_counts = {
-    20 : [aOcheck_accuracy("WithoutIP/vehicle20/v20.csv", v20)],
-    40 : [aOcheck_accuracy("WithoutIP/vehicle20/v40.csv", v40)],
-    60 : [aOcheck_accuracy("WithoutIP/vehicle20/v60.csv", v60)],
-    80 : [aOcheck_accuracy("WithoutIP/vehicle20/v80.csv", v80)],
-    100 : [aOcheck_accuracy("WithoutIP/vehicle20/v100.csv", v100)],
-    120 : [aOcheck_accuracy("WithoutIP/vehicle20/v120.csv", v120)],
-    140 : [aOcheck_accuracy("WithoutIP/vehicle20/v140.csv", v140)],
-    160 : [aOcheck_accuracy("WithoutIP/vehicle20/v160.csv", v160)],
-    180 : [aOcheck_accuracy("WithoutIP/vehicle20/v180.csv", v180)],
-    200 : [aOcheck_accuracy("WithoutIP/vehicle20/v200.csv", v200)]
+    20 : [aOcheck_accuracy("WithoutIP/Vehicle20/v20.csv", v20)],
+    40 : [aOcheck_accuracy("WithoutIP/Vehicle20/v40.csv", v40)],
+    60 : [aOcheck_accuracy("WithoutIP/Vehicle20/v60.csv", v60)],
+    80 : [aOcheck_accuracy("WithoutIP/Vehicle20/v80.csv", v80)],
+    100 : [aOcheck_accuracy("WithoutIP/Vehicle20/v100.csv", v100)],
+    120 : [aOcheck_accuracy("WithoutIP/Vehicle20/v120.csv", v120)],
+    140 : [aOcheck_accuracy("WithoutIP/Vehicle20/v140.csv", v140)],
+    160 : [aOcheck_accuracy("WithoutIP/Vehicle20/v160.csv", v160)],
+    180 : [aOcheck_accuracy("WithoutIP/Vehicle20/v180.csv", v180)],
+    200 : [aOcheck_accuracy("WithoutIP/Vehicle20/v200.csv", v200)]
 }
 
 print("\n Flowers 10 \n")
@@ -4325,16 +4325,16 @@ sports15_accList = [s15_acc, s30_acc, s45_acc, s60_acc, s75_acc, s90_acc, s105_a
 # ### Vehicle 20
 
 # %%
-v20_acc = float(aOcheck_accuracy("WithoutIP/vehicle20/v20.csv", v20))
-v40_acc = float(aOcheck_accuracy("WithoutIP/vehicle20/v40.csv", v40))
-v60_acc = float(aOcheck_accuracy("WithoutIP/vehicle20/v60.csv", v60))
-v80_acc = float(aOcheck_accuracy("WithoutIP/vehicle20/v80.csv", v80))
-v100_acc = float(aOcheck_accuracy("WithoutIP/vehicle20/v100.csv", v100))
-v120_acc = float(aOcheck_accuracy("WithoutIP/vehicle20/v120.csv", v120))
-v140_acc = float(aOcheck_accuracy("WithoutIP/vehicle20/v140.csv", v140))
-v160_acc = float(aOcheck_accuracy("WithoutIP/vehicle20/v160.csv", v160))
-v180_acc = float(aOcheck_accuracy("WithoutIP/vehicle20/v180.csv", v180))
-v200_acc = float(aOcheck_accuracy("WithoutIP/vehicle20/v200.csv", v200))
+v20_acc = float(aOcheck_accuracy("WithoutIP/Vehicle20/v20.csv", v20))
+v40_acc = float(aOcheck_accuracy("WithoutIP/Vehicle20/v40.csv", v40))
+v60_acc = float(aOcheck_accuracy("WithoutIP/Vehicle20/v60.csv", v60))
+v80_acc = float(aOcheck_accuracy("WithoutIP/Vehicle20/v80.csv", v80))
+v100_acc = float(aOcheck_accuracy("WithoutIP/Vehicle20/v100.csv", v100))
+v120_acc = float(aOcheck_accuracy("WithoutIP/Vehicle20/v120.csv", v120))
+v140_acc = float(aOcheck_accuracy("WithoutIP/Vehicle20/v140.csv", v140))
+v160_acc = float(aOcheck_accuracy("WithoutIP/Vehicle20/v160.csv", v160))
+v180_acc = float(aOcheck_accuracy("WithoutIP/Vehicle20/v180.csv", v180))
+v200_acc = float(aOcheck_accuracy("WithoutIP/Vehicle20/v200.csv", v200))
 
 vehicle20_accList = [v20_acc, v40_acc, v60_acc, v80_acc, v100_acc, v120_acc, v140_acc, v160_acc, v180_acc, v200_acc]
 
