@@ -1,0 +1,89 @@
+category,fraction,average_dot_product,variance,second_best_category
+Large ice hockey depictions,0.01464035646085296,0.26491097,0.00014142023,ice hockey depictions
+ice hockey depiction,0.02093500247542259,0.2779077,0.00018562497,Large ice hockey depiction
+hockey depictions,0.003748497064856072,0.2636851,0.00024958825,ice hockey depictions
+Large hockey depictions,0.0014145271942853101,0.25964898,8.942485e-05,Large ice hockey depictions
+ice hockey depictions,0.003041233467713417,0.27012727,0.00022192889,Large ice hockey depictions
+Large ice hockey depiction,0.0019096117122851686,0.2976349,0.00034707563,ice hockey depiction
+hockey depiction,0.02991725015913431,0.27076766,0.00040231078,Large hockey depiction
+Large hockey depiction,0.0015559799137138412,0.26649636,0.0002986897,ice hockey depiction
+Large kabaddi depictions,0.032321946389419334,0.27726036,0.00037064333,kabaddi depictions
+kabaddi depiction,0.007214088690855082,0.28581426,0.0006058076,Large kabaddi depiction
+Large kabaddi depiction,0.00912370040314025,0.3025715,0.00024618104,kabaddi depiction
+wrestling depiction,0.037980055166560577,0.28123137,0.00022659443,Large wrestling depiction
+badminton depiction,0.03607044345427541,0.29021645,0.00038484312,Large badminton depictions
+Large volleyball depiction,0.010043143079425701,0.28298733,0.00039187283,volleyball depiction
+football depiction,0.002616875309427824,0.25657642,0.00046038628,football depictions
+volleyball depiction,0.03387792630313318,0.2776058,0.000275805,Large volleyball depiction
+gymnastics depiction,0.051559516231699555,0.293217,0.0003834791,Large gymnastics depiction
+kabaddi depictions,0.0010608953957139827,0.26270738,0.0005343278,Large kabaddi depictions
+fencing depiction,0.028785628403706062,0.30188856,0.0005258003,fencing depictions
+Large badminton depictions,0.019449748921423014,0.27929693,0.00049745734,badminton depictions
+football depictions,0.03020015559799137,0.23476644,0.00021945676,Large football depictions
+Large gymnastics depiction,0.0018388853525709032,0.27982858,0.00079699664,gymnastics depiction
+gymnastics depictions,0.006223919654855365,0.27252388,0.00015486912,Large gymnastics depictions
+wrestling depictions,0.001273074474856779,0.27305296,6.7340006e-05,Large wrestling depictions
+Large wrestling depictions,0.008133531367140533,0.27084646,0.0001438058,wrestling depictions
+basketball depictions,0.00770917320885494,0.24749537,0.00011424406,Large basketball depictions
+Large wrestling depiction,0.001273074474856779,0.27538112,0.0002048744,wrestling depiction
+Large wwe depiction,0.005375203338284179,0.27369067,0.00015652807,Large wwe depictions
+Large gymnastics depictions,0.000990169035999717,0.26937214,0.00033458642,gymnastics depictions
+weight lifting depiction,0.02043991795742273,0.27870372,0.00021464602,Large weight lifting depiction
+Large tennis depictions,0.03196831459084801,0.26623258,0.00013156486,tennis depictions
+tennis depictions,0.006931183251998019,0.2700199,0.00027115006,Large tennis depictions
+Large tennis depiction,0.003607044345427541,0.28246033,0.00020567577,tennis depiction
+tennis depiction,0.012235660230567933,0.27082887,0.00016928546,Large tennis depictions
+Large table tennis depictions,0.025390763137421318,0.3000461,0.00038213914,table tennis depictions
+badminton depictions,0.008487163165711862,0.28103873,0.0004177014,Large badminton depictions
+Large badminton depiction,0.0009194426762854516,0.2852149,0.0007226375,badminton depiction
+Large baseball depictions,0.004597213381427258,0.25454462,0.00022250689,baseball depictions
+baseball depiction,0.031048871914562556,0.25574654,0.00023635048,baseball depictions
+baseball depictions,0.012730744748567792,0.24407007,0.00017413564,Large baseball depictions
+Large baseball depiction,0.002758328028856355,0.27582428,0.0006448856,baseball depiction
+Large football depiction,0.0007072635971426551,0.269878,0.0003385067,Large football depictions
+Large basketball depictions,0.010538227597425561,0.256311,0.00020466236,basketball depictions
+Large volleyball depictions,0.002758328028856355,0.26196346,0.000272922,Large volleyball depiction
+volleyball depictions,0.000848716316571186,0.26736313,0.00021145742,Large volleyball depictions
+Large fencing depictions,0.00035363179857132753,0.2346456,0.00038163067,Large fencing depiction
+fencing depictions,0.01039677487799703,0.27936873,0.0006821561,fencing depiction
+basketball depiction,0.014286724662281633,0.26275864,0.00031111971,basketball depictions
+Large wwe depictions,0.018176674446566236,0.27214894,0.00012962549,wwe depictions
+wwe depictions,0.0020510644317136995,0.27158555,0.00017458817,Large wwe depictions
+wwe depiction,0.011457670273711012,0.2702278,0.00021430592,Large wwe depictions
+Large shooting depictions,0.005941014215998302,0.24650772,0.00016113122,Large shooting depiction
+boxing depictions,0.018954664403423156,0.27223405,0.00017778197,Large boxing depictions
+Large boxing depictions,0.015913430935709738,0.27001196,0.00011806064,boxing depictions
+Large weight lifting depictions,0.0023339698705707617,0.2680473,0.00024316528,weight lifting depictions
+Large shooting depiction,0.023551877784850413,0.2608924,0.00036405158,Large shooting depictions
+shooting depiction,0.002404696230285027,0.24799703,0.0002998324,Large shooting depiction
+table tennis depiction,0.011104038475139685,0.2995881,0.0005029873,Large table tennis depiction
+Large weight lifting depiction,0.007284815050569347,0.28431872,0.00023207619,weight lifting depiction
+Large formula1 depiction,0.0056581087771412405,0.28869754,0.00061039923,formula1 depiction
+cricket depiction,0.016974326331423723,0.25782523,0.0001810193,cricket depictions
+Large fencing depiction,0.0006365372374283895,0.25254947,0.0003397531,fencing depiction
+table tennis depictions,0.0024754225899992926,0.28049293,0.00085199904,Large table tennis depictions
+shooting depictions,0.0002121790791427965,0.25036794,0.00027786195,Large shooting depictions
+formula1 depiction,0.021217907914279653,0.281651,0.00026512146,Large formula1 depiction
+Large football depictions,0.021076455194851122,0.24750622,0.00030756957,football depictions
+cricket depictions,0.028078364806563408,0.25093293,0.00010390966,cricket depiction
+Large table tennis depiction,0.008345710446283329,0.3125196,0.0005713075,table tennis depiction
+Large basketball depiction,0.0028290543885706202,0.28857598,0.00012828111,basketball depiction
+Large swimming depictions,0.01796449536742344,0.2612639,0.00014891587,swimming depictions
+motogp depiction,0.027017469410849423,0.29675427,0.00015080038,Large motogp depictions
+Large motogp depictions,0.016691420892566658,0.29381868,0.00022989209,motogp depiction
+Large formula1 depictions,0.0161963363745668,0.26913783,0.00023420408,formula1 depictions
+Large motogp depiction,0.0007072635971426551,0.29145497,0.00024073124,motogp depiction
+motogp depictions,0.0014852535539995756,0.29478222,0.00022254672,Large motogp depictions
+weight lifting depictions,0.001980338071999434,0.26452523,0.0002479766,Large weight lifting depictions
+boxing depiction,0.010821133036282623,0.2754186,0.0001770219,Large boxing depiction
+swimming depiction,0.017115779050852254,0.26989365,0.00018638422,Large swimming depiction
+Large swimming depiction,0.010821133036282623,0.271129,0.00014848646,swimming depiction
+swimming depictions,0.0014852535539995756,0.25777727,0.00028455825,Large swimming depictions
+Large cricket depiction,7.072635971426551e-05,0.25711408,0.0,Large cricket depictions
+Large cricket depictions,0.00014145271942853102,0.24092287,1.8507242e-05,cricket depictions
+formula1 depictions,0.004314307942570196,0.2785455,0.00040005855,Large formula1 depictions
+chess depiction,0.014357451021995898,0.29092798,0.00038896757,Large chess depictions
+Large chess depiction,0.000990169035999717,0.30464816,0.00051642314,chess depiction
+Large chess depictions,0.011528396633425277,0.28007397,0.00034394293,chess depictions
+chess depictions,0.004809392460570054,0.27744228,0.0003404898,Large chess depictions
+Large boxing depiction,0.0035363179857132755,0.28247893,0.00019108772,boxing depiction
